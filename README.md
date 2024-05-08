@@ -1,0 +1,1 @@
+This project serves as a dashboard where mathematical expressions are presented within cards. Each card features navigation buttons for moving to the next or previous expression. Additionally, functionalities include options for reading out loud, accessing hints, zooming, and reloading the content.
