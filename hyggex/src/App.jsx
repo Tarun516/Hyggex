@@ -33,13 +33,13 @@ function App() {
           </div>
 
           <div className="mt-16 flex justify-center">
-            <ul className="flex flex-row gap-8">
-              <li className="text-blue-900 font-bold">Study</li>
-              <li>Quiz</li>
-              <li>Test</li>
-              <li>Games</li>
-              <li>Others</li>
-            </ul>
+            <div className="flex flex-row gap-8">
+              <button className="text-blue-900 font-bold">Study</button>
+              <button>Quiz</button>
+              <button>Test</button>
+              <button>Games</button>
+              <button>Others</button>
+            </div>
           </div>
 
           <div className="flex  flex-col justify-center mt-20">
