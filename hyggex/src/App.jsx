@@ -68,7 +68,7 @@ function App() {
           </div>
 
           <div className="flex justify-around items-center mt-16">
-            <img src="./src/image.png" alt="" className="w-[217px]" />
+            <img src="../public/img2.png" alt="" className="w-[217px]" />
             <div className="flex flex-row justify-center items-center">
               <button>
                 <FaPlus className="bg-gradient-to-t from-blue-600 to-blue-900 rounded-full text-white size-8 p-2 " />
