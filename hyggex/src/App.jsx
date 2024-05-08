@@ -77,7 +77,11 @@ function App() {
           </div>
 
           <div className="flex justify-around items-center mt-16">
-            <img src="./src/img2.png" alt="" className="w-[217px]" />
+            <img
+              src="https://www.figma.com/file/Aj8hzPAAd25ViQ9GQGlZzI/Untitled-(Copy)?type=design&node-id=1-112&mode=design&t=uQiPyyAIc7gLn9vq-4"
+              alt=""
+              className="w-[217px]"
+            />
             <div className="flex flex-row justify-center items-center">
               <button>
                 <FaPlus className="bg-gradient-to-t from-blue-600 to-blue-900 rounded-full text-white size-8 p-2 " />

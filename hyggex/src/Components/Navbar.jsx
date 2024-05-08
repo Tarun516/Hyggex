@@ -5,7 +5,7 @@ function Navbar() {
     <div className="max-w-screen flex flex-row justify-between items-center mt-4 mx-10">
       <div>
         <img
-          src="./src/img1.png"
+          src="https://www.figma.com/file/Aj8hzPAAd25ViQ9GQGlZzI/Untitled-(Copy)?type=design&node-id=1-110&mode=design&t=uQiPyyAIc7gLn9vq-4"
           alt=""
           className="size-10 w-[191px] h-[39px] "
         />
