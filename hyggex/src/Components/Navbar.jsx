@@ -5,7 +5,7 @@ function Navbar() {
     <div className="max-w-screen flex flex-row justify-between items-center mt-4 mx-10">
       <div>
         <img
-          src="../public/img1.png"
+          src="./src/img1.png"
           alt=""
           className="size-10 w-[191px] h-[39px] "
         />
