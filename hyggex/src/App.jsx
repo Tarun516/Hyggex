@@ -53,17 +53,22 @@ function App() {
               </div>
             </div>
             <div className="flex  items-center  mx-[37%] justify-evenly w-1/4 mt-4">
-              <RxReload className="size-5 font-bold text-blue-950" />
-              <ul className="flex items-center gap-5">
-                <li>
+              <button>
+                {" "}
+                <RxReload className="size-5 font-bold text-blue-950" />
+              </button>
+              <div className="flex items-center gap-5">
+                <button>
                   <MdKeyboardArrowLeft className="size-8 font-bold text-slate-50 bg-gradient-to-t from-blue-600 to-blue-900 rounded-full" />
-                </li>
+                </button>
                 <span className="text-blue-900">01/10</span>
-                <li>
+                <button>
                   <MdKeyboardArrowRight className="size-8 font-bold text-slate-50 bg-gradient-to-t from-blue-600 to-blue-900 rounded-full" />
-                </li>
-              </ul>
-              <MdZoomOutMap className="text-blue-950 size-6" />
+                </button>
+              </div>
+              <button>
+                <MdZoomOutMap className="text-blue-950 size-6" />
+              </button>
             </div>
           </div>
 
