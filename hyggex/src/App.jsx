@@ -45,8 +45,12 @@ function App() {
           <div className="flex  flex-col justify-center mt-20">
             <div className="flex  flex-col mx-[37%] bg-gradient-to-tr from-blue-600 to-blue-900  w-1/4 p-4 h-[250px] rounded-xl text-white">
               <div className="flex justify-between mx-3">
-                <MdOutlineLightbulb className="size-6 font-bold" />
-                <CiVolumeHigh className="size-6 font-bold" />
+                <button>
+                  <MdOutlineLightbulb className="size-6 font-bold" />
+                </button>
+                <button>
+                  <CiVolumeHigh className="size-6 font-bold" />
+                </button>
               </div>
               <div className="flex justify-center  mt-16 text-xl font-bold">
                 <span>9 + 6 + 7x - 2x - 3</span>
